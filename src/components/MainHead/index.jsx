@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 
-import './style.styl'
+import './style.less'
 
 class MainHead extends Component {
     render() {

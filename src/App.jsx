@@ -5,7 +5,6 @@ import FastClick from 'fastclick';
 import route from './router';
 import store from './store';
 
-import './assets/stylus/index.styl'
 
 FastClick.attach(document.body)
 

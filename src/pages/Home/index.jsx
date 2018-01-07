@@ -4,7 +4,7 @@ import {connect} from 'react-redux'
 import MainHead from '../../components/MainHead'
 import {changeInputVal} from "../../store/ActionCreator"
 
-import './style.styl'
+import './style.less'
 
 class Home extends Component {
     render() {
